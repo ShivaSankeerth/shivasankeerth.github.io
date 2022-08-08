@@ -2,11 +2,10 @@
 layout: page
 title: Shiva Sankeerth Reddy Yarradla
 meta-title: About me
-subtitle: "Graduate Student in Computer Science, Programmer, Engineer"
+subtitle: ""
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Shiva+Sankeerth+Reddy;Software+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Graduate+Student+in+Computer+Science+at+SBU;Researcher;Programmer+%2B+Engineer;Welcome+to+my+personal+page..!)](https://git.io/typing-svg)
 
-<div id="aboutme-section">
 
 <p class="about-text">
 Hello 👋🏻, I am a Master's in Computer Science student at <a target="_blank" href="https://www.cs.stonybrook.edu/"> Stony Brook University</a>, under the supervision of <a target="_blank" href="http://www.cs.stonybrook.edu/~ram/"> Prof. I.V. Ramakrishnan</a> at the <a target="_blank" href="https://www3.cs.stonybrook.edu/~lmc/"> Knowledge Systems Lab</a>.
