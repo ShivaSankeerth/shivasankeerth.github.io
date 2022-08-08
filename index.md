@@ -4,7 +4,7 @@ title: Shiva Sankeerth Reddy Yarradla
 meta-title: About me
 subtitle: ""
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Graduate+Student+in+Computer+Science+at+SBU;Researcher;Programmer+%2B+Engineer;Welcome+to+my+personal+page..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=false&vCenter=true&width=500&height=70&lines=Graduate+Student+in+Computer+Science+at+SBU;Researcher;Programmer+%2B+Engineer;Welcome+to+my+personal+page..!)](https://git.io/typing-svg)
 
 
 <p class="about-text">
@@ -15,7 +15,7 @@ My research interests include Natural Language Processing and Distributed Machin
 </div>
 
 ## Career Updates
-- [29/04/2022] I will intern at Zoom Video Communications as an Machine Learning Research Intern this Summer 2022.
+- [29/04/2022] I will intern at Zoom Video Communications as an Machine Learning Research Intern in their NLU team this Summer 2022.
 - [22/1/2022] Started working as an Research Assistant under [Prof Shubham Jain](http://shubhamjain.net/) for the Spring 2022 Semester at SBU.
 - [19/08/2021] I started my M.S. in Computer Science at [SBU](https://www.cs.stonybrook.edu/) under the supervision of [Prof. I.V. Ramakrishnan](http://www.cs.stonybrook.edu/~ram/).
 - [19/08/2019] I started my Bachelors in Information Technology at [Osmania University](https://www.osmania.ac.in/)  with Thesis under the supervision of [Prof. Nikitha Kukunuru](https://scholar.google.co.in/citations?user=_mZ8KEwAAAAJ&hl=en).
