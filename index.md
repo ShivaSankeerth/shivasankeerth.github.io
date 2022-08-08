@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Divyam Madaan
+title: Shiva Sankeerth Reddy Yarradla
 meta-title: About me
 subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
 ---
