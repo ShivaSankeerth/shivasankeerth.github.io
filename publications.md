@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-I can also be found on [Google Scholar](https://scholar.google.com/citations?user=DNk4dZkAAAAJ&hl=en). 
+I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Fki0v_UAAAAJ&hl=en). 
 
 <a src="https://arxiv.org/abs/2110.06976"><u>Representational Continuity for Unsupervised Continual Learning.</u></a><br>
 <i><b>Divyam Madaan</b>, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang. </i> <br>
