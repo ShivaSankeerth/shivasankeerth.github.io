@@ -26,7 +26,11 @@ navbar-links:
   Blog: "blog"
   Publications: "publications" 
   Projects: "projects"
-  Resume / CV: "ShivaSankeerth_Resume.pdf"
+  Resume | CV:
+    - SDE : "ShivaSankeerth_SDE_Resume.pdf" 
+    - ML : "ShivaSankeerth_ML_Resume.pdf"
+
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -45,7 +49,7 @@ author:
   email: "syarradla@cs.stonybrook.edu"
   # facebook: divyam.madaan.1  # eg. daattali
   github: shivasankeerth    # eg. daattali
-  twitter: divyam3897   # eg. daattali
+  twitter: shivasankeerth   # eg. daattali
   # reddit: yourname    # eg. daattali
   # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: shivasankeerth  # eg. daattali
