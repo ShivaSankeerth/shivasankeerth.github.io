@@ -5,7 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=Fki0v_UAAAAJ&hl=en). 
 
-<a src="https://arxiv.org/abs/2110.06976"><u>Representational Continuity for Unsupervised Continual Learning.</u></a><br>
+<!-- <a src="https://arxiv.org/abs/2110.06976"><u>Representational Continuity for Unsupervised Continual Learning.</u></a><br>
 <i><b>Divyam Madaan</b>, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang. </i> <br>
 International Conference on Learning Representations (ICLR) 2022 (Oral presentation) <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/pdf?id=9Hrka5PA7LW" target="_blank" rel="noopener">PDF</a>
@@ -50,5 +50,5 @@ Aidan N. Gomez, Ivan Zhang, Siddhartha Rao Kamalakara, <b>Divyam Madaan</b>, Kev
 Preprint 2019 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1905.13678.pdf" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/for-ai/TD" target="_blank" rel="noopener">Code</a>
-
+ -->
 
