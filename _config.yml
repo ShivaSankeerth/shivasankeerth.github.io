@@ -25,10 +25,7 @@ description: Turning Ideas into Reality
 navbar-links:
   Blog: "blog"
   Publications: "publications" 
-  Projects:
-    - Adaptive Computation Time: "https://github.com/for-ai/ACT"
-    - GSoC'17: "https://summerofcode.withgoogle.com/projects/#5877039098757120"
-    - Season of KDE: "https://github.com/gcompris/GCompris-qt/commit/43ef8edeaa8a72994e861aefaabe22c56d790677"
+  Projects: "projects"
   Resume / CV: "ShivaSankeerth_Resume.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
