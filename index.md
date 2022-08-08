@@ -2,8 +2,9 @@
 layout: page
 title: Shiva Sankeerth Reddy Yarradla
 meta-title: About me
-subtitle: ""
+subtitle: "Graduate Student in Computer Science, Programmer, Engineer"
 ---
+I write about [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Shiva+Sankeerth+Reddy;Software+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 <div id="aboutme-section">
 
