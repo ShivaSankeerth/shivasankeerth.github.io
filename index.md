@@ -12,7 +12,6 @@ Hello 👋🏻, I am a Master's in Computer Science student at <a target="_blank
 
 My research interests include Natural Language Processing and Distributed Machine Learning.
 </p>
-</div>
 
 ## Career Updates
 - [29/04/2022] I will intern at Zoom Video Communications as an Machine Learning Research Intern in their NLU team this Summer 2022.
