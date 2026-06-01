@@ -14,10 +14,10 @@ My research interests include Natural Language Processing, LLM agents, and retri
 </p>
 
 ## Career Updates
-- [April 2025] Gave a talk at the LLMDay conference: *Your Agent Doesn't Need More Evals, It Needs an Environment*.
-- [March 2025] Had two papers accepted (both to be presented in June 2026):
+- [April 2026] Gave a talk at the LLMDay conference: *Your Agent Doesn't Need More Evals, It Needs an Environment*.
+- [March 2026] Had two papers accepted (both to be presented in June 2026):
   - *Utility-Aware Retrieval for Knowledge-Grounded Multi-Step Agentic Question Answering* — 5th International Conference on Computational Modelling, Simulation and Optimization (CMSO), Singapore.
-  - 3rd IEEE Technology & Innovation Conference (TIC 2026), Malaysia — *title forthcoming*.
+  - *Temporal Grounding for Agentic Retrieval Augmented Generation over Dynamic Knowledge Bases* — 3rd IEEE Technology & Innovation Conference (TIC 2026), Malaysia.
 - [October 2024] Joined Brevian AI as a Founding ML Research Engineer.
 - [June 2023] Joined Arkifi AI as a Founding ML Research Engineer (since acquired by S&P Global).
 - [May 2023] Graduated with an M.S. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu/).
@@ -25,5 +25,3 @@ My research interests include Natural Language Processing, LLM agents, and retri
 - [January 2022] Worked as a Research Assistant under [Prof. Shubham Jain](http://shubhamjain.net/) at SBU.
 - [August 2021] Started my M.S. in Computer Science at [SBU](https://www.cs.stonybrook.edu/) under the supervision of [Prof. I.V. Ramakrishnan](http://www.cs.stonybrook.edu/~ram/).
 - [August 2019] Began my Bachelor's in Information Technology at [Osmania University](https://www.osmania.ac.in/), with a thesis under [Prof. Nikitha Kukunuru](https://scholar.google.co.in/citations?user=_mZ8KEwAAAAJ&hl=en).
-</content>
-</invoke>
