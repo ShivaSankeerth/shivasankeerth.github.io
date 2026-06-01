@@ -4,19 +4,26 @@ title: Shiva Sankeerth Reddy Yarradla
 meta-title: About me
 subtitle: ""
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=false&vCenter=true&width=500&height=70&lines=Graduate+Student+in+Computer+Science+at+SBU;Researcher;Programmer+%2B+Engineer;Welcome+to+my+personal+page..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=false&vCenter=true&width=500&height=70&lines=Founding+ML+Research+Engineer+at+Brevian+AI;ML+Research+Engineer;Programmer+%2B+Engineer;Welcome+to+my+personal+page..!)](https://git.io/typing-svg)
 
 
 <p class="about-text">
-Hello 👋🏻, I am a Master's in Computer Science student at <a target="_blank" href="https://www.cs.stonybrook.edu/"> Stony Brook University</a>, under the supervision of <a target="_blank" href="http://www.cs.stonybrook.edu/~ram/"> Prof. I.V. Ramakrishnan</a> at the <a target="_blank" href="https://www3.cs.stonybrook.edu/~lmc/"> Knowledge Systems Lab</a>.
+Hello 👋🏻, I am a Founding ML Research Engineer at Brevian AI, where I work on LLM agents and retrieval-augmented systems. I earned my M.S. in Computer Science from <a target="_blank" href="https://www.cs.stonybrook.edu/">Stony Brook University</a> in 2023. Previously, I was a Founding ML Research Engineer at Arkifi AI (since acquired by S&P Global).
 
-My research interests include Natural Language Processing and Distributed Machine Learning.
+My research interests include Natural Language Processing, LLM agents, and retrieval-augmented generation.
 </p>
-</div>
 
 ## Career Updates
-- [29/04/2022] I will intern at Zoom Video Communications as an Machine Learning Research Intern in their NLU team this Summer 2022.
-- [22/1/2022] Started working as an Research Assistant under [Prof Shubham Jain](http://shubhamjain.net/) for the Spring 2022 Semester at SBU.
-- [19/08/2021] I started my M.S. in Computer Science at [SBU](https://www.cs.stonybrook.edu/) under the supervision of [Prof. I.V. Ramakrishnan](http://www.cs.stonybrook.edu/~ram/).
-- [19/08/2019] I started my Bachelors in Information Technology at [Osmania University](https://www.osmania.ac.in/)  with Thesis under the supervision of [Prof. Nikitha Kukunuru](https://scholar.google.co.in/citations?user=_mZ8KEwAAAAJ&hl=en).
-
+- [April 2025] Gave a talk at the LLMDay conference: *Your Agent Doesn't Need More Evals, It Needs an Environment*.
+- [March 2025] Had two papers accepted (both to be presented in June 2026):
+  - *Utility-Aware Retrieval for Knowledge-Grounded Multi-Step Agentic Question Answering* — 5th International Conference on Computational Modelling, Simulation and Optimization (CMSO), Singapore.
+  - 3rd IEEE Technology & Innovation Conference (TIC 2026), Malaysia — *title forthcoming*.
+- [October 2024] Joined Brevian AI as a Founding ML Research Engineer.
+- [June 2023] Joined Arkifi AI as a Founding ML Research Engineer (since acquired by S&P Global).
+- [May 2023] Graduated with an M.S. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu/).
+- [Summer 2022] Interned at Zoom Video Communications as a Machine Learning Research Intern on the NLU team.
+- [January 2022] Worked as a Research Assistant under [Prof. Shubham Jain](http://shubhamjain.net/) at SBU.
+- [August 2021] Started my M.S. in Computer Science at [SBU](https://www.cs.stonybrook.edu/) under the supervision of [Prof. I.V. Ramakrishnan](http://www.cs.stonybrook.edu/~ram/).
+- [August 2019] Began my Bachelor's in Information Technology at [Osmania University](https://www.osmania.ac.in/), with a thesis under [Prof. Nikitha Kukunuru](https://scholar.google.co.in/citations?user=_mZ8KEwAAAAJ&hl=en).
+</content>
+</invoke>
